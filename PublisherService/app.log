@@ -1,0 +1,23 @@
+2020-06-30 13:59:48,466 INFO com.pk.publisher.PublisherServiceApplication [main] Starting PublisherServiceApplication on pc with PID 7036 (E:\PKWorkSpace\PublisherService\target\classes started by home in E:\PKWorkSpace\PublisherService)
+2020-06-30 13:59:48,478 INFO com.pk.publisher.PublisherServiceApplication [main] No active profile set, falling back to default profiles: default
+2020-06-30 13:59:53,436 INFO com.pk.publisher.config.PublisherKakfaConfiguration [main] In PublisherKakfaConfiguration class
+2020-06-30 13:59:55,583 INFO com.pk.publisher.PublisherServiceApplication [main] Started PublisherServiceApplication in 8.017 seconds (JVM running for 10.144)
+2020-06-30 14:02:35,388 INFO com.pk.publisher.security.controller.TokenGenerationController [http-nio-8007-exec-2] in signIn methodnavi
+2020-06-30 14:05:10,512 INFO com.pk.publisher.controller.PublisherController [http-nio-8007-exec-4] published PublisherController  publishCustomerInformation
+2020-06-30 14:05:10,515 INFO com.pk.publisher.service.PublisherService [http-nio-8007-exec-4] published customerobject class Customer {
+    customerNumber: C1234565o6
+    firstName: Ashok123511
+    lastName: kancham13118
+    birthdate: 1987-05-05
+    country: India
+    countryCode: IN
+    mobileNumber: 9849558454
+    email: navin270587@gmail.com
+    customerStatus: close
+    address: class Address {
+        addressLine1: jhbchdbchjdbcjdkbcdjkcbdjcbdcdc
+        addressLine2: null
+        street: null
+        postalCode: 50410
+    }
+}

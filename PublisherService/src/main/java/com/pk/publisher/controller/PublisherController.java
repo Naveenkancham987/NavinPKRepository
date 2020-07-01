@@ -1,0 +1,40 @@
+package com.pk.publisher.controller;
+
+import javax.validation.Valid;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+import com.pk.publisher.model.Customer;
+import com.pk.publisher.model.SuccessResponse;
+import com.pk.publisher.service.PublisherService;
+
+
+/**
+ * 
+ * @author navi
+ *
+ */
+@RestController
+public class PublisherController {
+  
+  private static final Logger log = LoggerFactory.getLogger(PublisherController.class);
+  
+  @Autowired
+  private PublisherService publisherService;
+
+  /**
+   * 
+   * @param customer
+   * @return ResponseEntity with success message
+   */
+   @PostMapping(value = "/publish", consumes = "application/json", produces = "application/json")
+  public ResponseEntity<SuccessResponse> publishCustomerInformation(@Valid @RequestBody Customer customer) {
+    log.info("PublisherController {}", " publishCustomerInformation method begins");
+    return  publisherService.publishCustomerObject(customer);
+  }
+
+}

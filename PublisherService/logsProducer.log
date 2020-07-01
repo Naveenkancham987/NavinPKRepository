@@ -1,0 +1,44 @@
+2020-06-23 20:56:30,702 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Starting PublisherServiceApplication on pc with PID 7504 (E:\PKWorkSpace\PublisherService\target\classes started by home in E:\PKWorkSpace\PublisherService)
+2020-06-23 20:56:30,716 DEBUG com.pk.publisher.PublisherServiceApplication [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-23 20:56:30,724 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-06-23 20:56:45,988 INFO com.pk.publisher.config.PublisherKakfaConfiguration [restartedMain] In PublisherKakfaConfiguration clas
+2020-06-23 20:56:50,275 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Started PublisherServiceApplication in 20.354 seconds (JVM running for 22.036)
+2020-06-23 20:58:06,683 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Starting PublisherServiceApplication on pc with PID 7504 (E:\PKWorkSpace\PublisherService\target\classes started by home in E:\PKWorkSpace\PublisherService)
+2020-06-23 20:58:06,684 DEBUG com.pk.publisher.PublisherServiceApplication [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-23 20:58:06,684 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-06-23 20:58:07,699 INFO com.pk.publisher.config.PublisherKakfaConfiguration [restartedMain] In PublisherKakfaConfiguration clas
+2020-06-23 20:58:08,129 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Started PublisherServiceApplication in 1.525 seconds (JVM running for 99.891)
+2020-06-23 20:58:12,021 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Starting PublisherServiceApplication on pc with PID 7504 (E:\PKWorkSpace\PublisherService\target\classes started by home in E:\PKWorkSpace\PublisherService)
+2020-06-23 20:58:12,022 DEBUG com.pk.publisher.PublisherServiceApplication [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-23 20:58:12,023 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-06-23 20:58:13,061 INFO com.pk.publisher.config.PublisherKakfaConfiguration [restartedMain] In PublisherKakfaConfiguration clas
+2020-06-23 20:58:13,408 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Started PublisherServiceApplication in 1.462 seconds (JVM running for 105.17)
+2020-06-23 20:58:46,357 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Starting PublisherServiceApplication on pc with PID 9564 (E:\PKWorkSpace\PublisherService\target\classes started by home in E:\PKWorkSpace\PublisherService)
+2020-06-23 20:58:46,363 DEBUG com.pk.publisher.PublisherServiceApplication [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-23 20:58:46,365 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-06-23 20:58:49,977 INFO com.pk.publisher.config.PublisherKakfaConfiguration [restartedMain] In PublisherKakfaConfiguration clas
+2020-06-23 20:58:51,503 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Started PublisherServiceApplication in 5.975 seconds (JVM running for 7.75)
+2020-06-23 21:00:02,313 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Starting PublisherServiceApplication on pc with PID 3836 (E:\PKWorkSpace\PublisherService\target\classes started by home in E:\PKWorkSpace\PublisherService)
+2020-06-23 21:00:02,323 DEBUG com.pk.publisher.PublisherServiceApplication [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-23 21:00:02,325 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-06-23 21:00:05,807 INFO com.pk.publisher.config.PublisherKakfaConfiguration [restartedMain] In PublisherKakfaConfiguration clas
+2020-06-23 21:00:07,325 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Started PublisherServiceApplication in 5.873 seconds (JVM running for 7.87)
+2020-06-23 21:05:29,121 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Starting PublisherServiceApplication on pc with PID 5972 (E:\PKWorkSpace\PublisherService\target\classes started by home in E:\PKWorkSpace\PublisherService)
+2020-06-23 21:05:29,126 DEBUG com.pk.publisher.PublisherServiceApplication [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-23 21:05:29,128 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-06-23 21:05:43,545 INFO com.pk.publisher.config.PublisherKakfaConfiguration [restartedMain] In PublisherKakfaConfiguration clas
+2020-06-23 21:05:54,958 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Started PublisherServiceApplication in 26.637 seconds (JVM running for 28.597)
+2020-06-23 21:07:12,935 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Starting PublisherServiceApplication on pc with PID 4852 (E:\PKWorkSpace\PublisherService\target\classes started by home in E:\PKWorkSpace\PublisherService)
+2020-06-23 21:07:12,947 DEBUG com.pk.publisher.PublisherServiceApplication [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-23 21:07:12,948 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-06-23 21:07:18,225 INFO com.pk.publisher.config.PublisherKakfaConfiguration [restartedMain] In PublisherKakfaConfiguration clas
+2020-06-23 21:07:22,965 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Started PublisherServiceApplication in 11.395 seconds (JVM running for 17.486)
+2020-06-23 21:14:13,293 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Starting PublisherServiceApplication on pc with PID 3096 (E:\PKWorkSpace\PublisherService\target\classes started by home in E:\PKWorkSpace\PublisherService)
+2020-06-23 21:14:13,341 DEBUG com.pk.publisher.PublisherServiceApplication [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-23 21:14:13,343 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-06-23 21:14:55,922 INFO com.pk.publisher.config.PublisherKakfaConfiguration [restartedMain] In PublisherKakfaConfiguration clas
+2020-06-23 21:17:29,961 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Starting PublisherServiceApplication on pc with PID 5532 (E:\PKWorkSpace\PublisherService\target\classes started by home in E:\PKWorkSpace\PublisherService)
+2020-06-23 21:17:29,966 DEBUG com.pk.publisher.PublisherServiceApplication [restartedMain] Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-23 21:17:29,969 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-06-23 21:17:35,129 INFO com.pk.publisher.config.PublisherKakfaConfiguration [restartedMain] In PublisherKakfaConfiguration clas
+2020-06-23 21:17:37,743 INFO com.pk.publisher.PublisherServiceApplication [restartedMain] Started PublisherServiceApplication in 8.916 seconds (JVM running for 10.899)
